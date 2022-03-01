@@ -127,7 +127,6 @@
     position: relative;
     height: 100%;
     width: 90%;
-    max-width: 1400px;
     margin:auto;
     display: flex;
     flex-direction: row;
@@ -172,7 +171,7 @@
 
 .item-1:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/letter-f.jpg);
+    background-image: url(../images/hover/landr.png);
 }
 
 .item-2:hover .image-overlay{
@@ -207,7 +206,7 @@
 
 .item-8:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/table.jpg);
+    background-image: url(../images/hover/letter-f.jpg);
 }
 
 .item-9:hover .image-overlay{
