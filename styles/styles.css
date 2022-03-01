@@ -220,17 +220,17 @@
 
 .item-2:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/neurobook.jpg);
+    background-image: url(../images/hover/chats.png);
 }
 
 .item-3:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/cba.png);
+    background-image: url(../images/hover/neurobook.jpg);
 }
 
 .item-4:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/ramen.jpg);
+    background-image: url(../images/hover/modernman-sketch-sepia.jpg);
 }
 
 .item-5:hover .image-overlay{
@@ -240,7 +240,7 @@
 
 .item-6:hover .image-overlay{
     opacity: 1;
-    background-image: url(../images/hover/chrysanthemum.jpg);
+    background-image: url(../images/hover/cba.png);
 }
 
 .project-container-footer {
